@@ -5,7 +5,7 @@
 Note taker is a web application that can be used to write and save notes for future reference.
 
 ### Motivation: ###
-The motivation behind this project is to learn and demonstrate HTML, CSS, Javascript, Bootstrap, express, heroke and jquery(Third party API's) coding skills.
+The motivation behind this project is to learn and demonstrate HTML, CSS, Javascript, Bootstrap, express, heroku and jquery(Third party API's) coding skills.
 
 ### Technologies used: ###
     * HTML
@@ -16,7 +16,7 @@ The motivation behind this project is to learn and demonstrate HTML, CSS, Javasc
     * Jquery
     * Third party API's
     * Express
-    * Heroke
+    * Heroku
 
 ### Application Demo clip: ###
 https://watch.screencastify.com/v/nJbfTlwOGeuSgKXkjlEd
